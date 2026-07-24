@@ -218,7 +218,7 @@ You should see telemetry from multiple coffee machines:
 
 ---
 
-# 🛠️ Technology Stack
+#  Technology Stack
 
 | Component | Technology |
 |-|-|
@@ -232,7 +232,7 @@ You should see telemetry from multiple coffee machines:
 
 ---
 
-# 🎯 Engineering Concepts Demonstrated
+#  Engineering Concepts Demonstrated
 
 - IoT device telemetry pipelines
 - MQTT communication patterns
@@ -245,30 +245,4 @@ You should see telemetry from multiple coffee machines:
 
 ---
 
-# 📷 Dashboard Screenshots
 
-(Add Grafana screenshots here)
-
----
-
-# 🔗 Links
-
-GitHub Repository:
-
-<YOUR_GITHUB_LINK>
-
-Technical Blog:
-
-<YOUR_BLOG_LINK>
-
----
-
-# 📌 Future Enhancements
-
-Possible extensions:
-
-- Device provisioning
-- Certificate-based authentication
-- OTA firmware update simulation
-- Offline telemetry buffering
-- Alerting integration
